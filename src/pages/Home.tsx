@@ -2,7 +2,7 @@ import { useNavigate } from 'react-router-dom'
 import { SetStateAction, useState } from 'react';
 import '../App.css'
 import '../index.css'
-
+{/*home*/}
 const Home = () => {
 
   const navigate = useNavigate()
