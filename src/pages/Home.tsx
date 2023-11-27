@@ -42,7 +42,10 @@ const Home = () => {
         </div>
       </div>
 
-      <a href="https://twitter.com/zihaarn" className="text-[#aaa] source-code text-underline-offset underline transition-[1s] tap-highlight cursor-pointer hover:text-[white] text-[15px] ml-[40px] md:ml-[200px]">Twitter</a>
+      <div className='flex'>
+        <a href="https://twitter.com/zihaarn" className="text-[#aaa] source-code text-underline-offset underline transition-[1s] tap-highlight cursor-pointer hover:text-[white] text-[15px] ml-[40px] md:ml-[200px]">Twitter</a>
+        <a href="https://t.me/zihaarn" className="text-[#aaa] source-code text-underline-offset underline transition-[1s] tap-highlight cursor-pointer hover:text-[white] text-[15px] ml-[40px] md:ml-[40px]">Contact me</a>
+      </div>
 
       <p className='text-[#aaa] source-code text-[15px] ml-[40px] mr-[40px] mt-[30px] md:ml-[200px] md:mr-[200px]'>
         Subscribe to my newsletter to <br />receive the latest updates directly to your inbox.
