@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-underline-offset {
+    text-underline-offset: 8px;
+}
+
+.tap-highlight {
+    -webkit-tap-highlight-color: transparent;
+}

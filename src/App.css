@@ -1,0 +1,14 @@
+@import url('https://api.fontshare.com/v2/css?f[]=clash-display@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;300;400;500&display=swap');
+
+.clash-display {
+  font-family: 'Clash Display', sans-serif;
+}
+
+.source-code {
+  font-family: 'Source Code Pro', monospace;
+}
+
+* {
+  background-color: black;
+}
