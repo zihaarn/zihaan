@@ -1,1 +1,1 @@
-This is my personal web. Check it out!
+This is my personal web. Have a look!
