@@ -27,7 +27,7 @@ const Home = () => {
 
       <p className="text-[#aaa] source-code text-[15px] ml-[40px] mr-[40px] pt-[50px] md:ml-[200px] md:mr-[200px]">
         Hello! <br />
-        I am a passionate Full Stack Software Developer besed in the serene beauty of the Maldives. <br />
+        I am a passionate Software Developer besed in the serene beauty of the Maldives. <br />
         Specializing in crafting intricate backends and venturing into the realms of machine learning. <br />
         This is my digital haven, a personal website where I showcase a symphony of projects, experiments, and researches, inviting visitors to explore the fusion of code and creativity that defines my digital journey.
       </p>
