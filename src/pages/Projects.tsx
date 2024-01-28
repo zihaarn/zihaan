@@ -13,7 +13,7 @@ const Projects = () => {
       </div>
 
       <div className="flex mb-[20px]">
-        <a href="https://github.com/zihaarn/chat-bot" className="text-[#aaa] source-code text-underline-offset underline transition-[1s] tap-highlight cursor-pointer hover:text-[white] text-[15px] ml-[40px] md:ml-[200px]">Library Management System</a>
+        <a href="https://github.com/zihaarn/lib-management-system" className="text-[#aaa] source-code text-underline-offset underline transition-[1s] tap-highlight cursor-pointer hover:text-[white] text-[15px] ml-[40px] md:ml-[200px]">Library Management System</a>
         <p className="text-[#aaa] source-code text-[15px] mr-[40px] pl-[15px] md:mr-[200px]">- This is a simple Java project that implements a basic Library Management System. <br/> The system allows users to perform operations such as adding books, borrowing books, returning books, and displaying the list of available books.</p>
       </div>
 
