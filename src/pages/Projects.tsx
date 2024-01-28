@@ -12,6 +12,11 @@ const Projects = () => {
         <p className="text-[#aaa] source-code text-[15px] mr-[40px] pl-[15px] md:mr-[200px]">- Basic implementation of a chatbot using Python. The chatbot can learn new questions and answers from user interactions and store them in a JSON file.</p>
       </div>
 
+      <div className="flex mb-[20px]">
+        <a href="https://github.com/zihaarn/chat-bot" className="text-[#aaa] source-code text-underline-offset underline transition-[1s] tap-highlight cursor-pointer hover:text-[white] text-[15px] ml-[40px] md:ml-[200px]">Library Management System</a>
+        <p className="text-[#aaa] source-code text-[15px] mr-[40px] pl-[15px] md:mr-[200px]">- This is a simple Java project that implements a basic Library Management System. <br/> The system allows users to perform operations such as adding books, borrowing books, returning books, and displaying the list of available books.</p>
+      </div>
+
       <p className="text-[#fff] source-code text-[15px] ml-[40px] mb-[8px] mr-[40px] pt-[50px] md:ml-[200px] md:mr-[200px]">College Projects</p>
       <div className="flex">
         <a href="https://github.com/zihaarn/password-generator" className="text-[#aaa] source-code text-underline-offset underline transition-[1s] tap-highlight cursor-pointer hover:text-[white] text-[15px] ml-[40px] md:ml-[200px]">PG System</a>
